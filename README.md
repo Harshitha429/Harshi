@@ -1046,7 +1046,7 @@ The project can be extended with:
 
 # 👨‍💻 Author
 
-## Sudheer Nandipati
+## Satya Harshitha Panuganti
 
 **Embedded Systems / Firmware Engineer – Fresher**
 
