@@ -1005,19 +1005,19 @@ The project can be extended with:
 
 ## Hardware Setup
 
-![Hardware Setup](Hardware/Hardware_Setup.jpeg)
+![Hardware Setup](<img width="1134" height="1387" alt="Hardware_Setup" src="https://github.com/user-attachments/assets/69677ed9-8f9b-49c2-a5b9-77b1a769d68c" />
+)
 
-## LCD Interface
-
-![LCD Interface](Hardware/LCD.jpeg)
 
 ## Proteus Circuit
 
-![Proteus Circuit](Proteus/LPC2148_Circuit.png)
+![Proteus Circuit](<img width="1366" height="768" alt="LPC2148_Circuit" src="https://github.com/user-attachments/assets/cfd8ad9c-3818-474f-a198-45c117b49a60" />
+)
 
 ## Project Setup
 
-![Project Setup](Proteus/mini%20project.jpeg)
+![Project Setup](<img width="1600" height="1293" alt="mini project" src="https://github.com/user-attachments/assets/63b4daa2-869b-4578-b931-1e454f7486c0" />
+)
 
 ---
 
